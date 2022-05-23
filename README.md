@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PHP 8, and next JS
-- 🌱 I’m currently learning LiveWire
+- 🔭 I’m currently working on PHP 8, React, andNextJS
+- 🌱 I’m currently learning Laravel LiveWire
 - 👯 I’m looking to collaborate on any Laravel Project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I still love PHP
 
 -->
-- 🔭 I’m currently working on PHP 8, and next JS
-- 🌱 I’m currently learning LiveWire
+- 🔭 I’m currently working on PHP 8, React, andNextJS
+- 🌱 I’m currently learning Laravel LiveWire
 - 👯 I’m looking to collaborate on any Laravel Project
 - 📫 How to reach me: faysal.haque@yahoo.com
 - ⚡ Fun fact: I still love PHP
