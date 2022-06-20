@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysalhaque&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 
-![GitHub metrics](https://metrics.lecoq.io/faysalhaque&count_private=true)  
+![GitHub metrics](https://metrics.lecoq.io/faysalhaque)  
 
-![Profile views](https://gpvc.arturio.dev/faysalhaque&count_private=true)  
+![Profile views](https://gpvc.arturio.dev/faysalhaque)  
