@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: faysal.haque@yahoo.com
 - ⚡ Fun fact: I still love PHP
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhaque&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhaque&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysalhaque&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 
-![GitHub metrics](https://metrics.lecoq.io/faysalhaque)  
+![GitHub metrics](https://metrics.lecoq.io/faysalhaque&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/faysalhaque)  
+![Profile views](https://gpvc.arturio.dev/faysalhaque&count_private=true)  
