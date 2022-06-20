@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhaque&show_icons=true&theme=vision-friendly-dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysalhaque&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
+
+![GitHub metrics](https://metrics.lecoq.io/faysalhaque)  
+
+![Profile views](https://gpvc.arturio.dev/faysalhaque)  
