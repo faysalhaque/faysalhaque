@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: faysal.haque@yahoo.com
 - ⚡ Fun fact: I still love PHP
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhaque)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhaque&show_icons=true&theme=vision-friendly-dar)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysalhaque&show_icons=true&theme=vision-friendly-dark)
